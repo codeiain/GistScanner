@@ -4,6 +4,6 @@ node_js:
   - "6.1"
   - "5.11"
 notifications:
-  slack: codeiain:l6V7uJ3gND4QlProw5JfDETD
+  slack: codeiain:L4zHgsi0hcrNA3s0r8WeuOWG
 install:
     - npm install
